@@ -1,6 +1,13 @@
 # On-chain games
 This is just a list of on-chain games out there. If you want to have your game listed, please open an issue.
 
+## Battle Arena
+
+|name|twitter|discord|description|
+|---|---|---|---|
+|[Spider Tanks](https://spidertanks.game)|[Link](https://twitter.com/GoGalaGames)|[Link](http://galagames.chat/)|A battle arena game where you fight against others with your own tank. The storage of the whole game is on-chain. Playing a map works off-chain, but the result will be published on-chain. |
+
+
 ## Construction and management games
 
 |name|twitter|discord|description|
