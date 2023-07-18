@@ -25,4 +25,4 @@ This is just a list of on-chain games out there. If you want to have your game l
 
 |name|twitter|discord|description|
 |---|---|---|---|
-|Cosmik Battle||[Link](https://twitter.com/CosmikBattle)||Game by Cometh|
+|Cosmik Battle|[Link](https://twitter.com/CosmikBattle)||Game by Cometh|
