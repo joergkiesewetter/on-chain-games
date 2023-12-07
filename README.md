@@ -7,6 +7,11 @@ This is just a list of on-chain games out there. If you want to have your game l
 |---|---|---|---|
 |[Spider Tanks](https://spidertanks.game)|[Link](https://twitter.com/GoGalaGames)|[Link](http://galagames.chat/)|A battle arena game where you fight against others with your own tank. The storage of the whole game is on-chain. Playing a map works off-chain, but the result will be published on-chain. |
 
+## Coding games
+
+|name|twitter|discord|description|
+|---|---|---|---|
+|Shoshin|[Link](https://twitter.com/Shoshin_gg)||A coding game where your logic is executed in a Cairo VM|
 
 ## Construction and management games
 
