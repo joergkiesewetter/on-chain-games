@@ -26,6 +26,12 @@ This is just a list of on-chain games out there. If you want to have your game l
 |---|---|---|---|
 |[Rarity](https://rarityextended.com/)||[Link](https://discord.gg/8t6hPtjTtZ)|A community driven game, which is around since 2021, seems abandoned since november 2022|
 
+## Strategy
+
+|name|twitter|discord|description|
+|---|---|---|---|
+|[Mitraeum](https://mithraeum.io/)|[Link](https://twitter.com/mithraeumio)|||
+
 ## Trading Card Games
 
 |name|twitter|discord|description|
