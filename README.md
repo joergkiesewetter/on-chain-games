@@ -30,7 +30,7 @@ This is just a list of on-chain games out there. If you want to have your game l
 
 |name|twitter|discord|description|
 |---|---|---|---|
-|[Mitraeum](https://mithraeum.io/)|[Link](https://twitter.com/mithraeumio)|||
+|[Mithraeum](https://mithraeum.io/)|[Link](https://twitter.com/mithraeumio)|||
 
 ## Trading Card Games
 
